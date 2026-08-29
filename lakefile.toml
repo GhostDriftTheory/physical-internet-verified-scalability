@@ -1,0 +1,9 @@
+name = "physical_internet_verified_scalability"
+version = "1.0.0"
+defaultTargets = ["PhysicalInternetVerifiedScalability", "AxiomAudit"]
+
+[[lean_lib]]
+name = "PhysicalInternetVerifiedScalability"
+
+[[lean_lib]]
+name = "AxiomAudit"
