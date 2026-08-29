@@ -32,7 +32,6 @@ jobs:
           lint: false
           use-mathlib-cache: false
           build-args: "--wfail"
-          leanchecker: true
 
       - name: Directly compile core
         run: lake env lean PhysicalInternetVerifiedScalability.lean
