@@ -1,0 +1,8 @@
+{
+  "version": "1.2.0",
+  "packagesDir": ".lake/packages",
+  "packages": [],
+  "name": "physical_internet_verified_scalability",
+  "lakeDir": ".lake",
+  "fixedToolchain": false
+}
