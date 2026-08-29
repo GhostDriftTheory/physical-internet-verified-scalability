@@ -33,8 +33,6 @@ jobs:
           use-mathlib-cache: false
           build-args: "--wfail"
           leanchecker: true
-          nanoda: true
-          nanoda-allow-sorry: false
 
       - name: Directly compile core
         run: lake env lean PhysicalInternetVerifiedScalability.lean
